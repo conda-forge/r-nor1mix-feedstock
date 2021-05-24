@@ -8,7 +8,6 @@ package:
   version: {{ version|replace("-", "_") }}
 
 source:
-  fn: nor1mix_{{ version }}.tar.gz
   url:
     - https://cran.r-project.org/src/contrib/nor1mix_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/nor1mix/nor1mix_{{ version }}.tar.gz
