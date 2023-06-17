@@ -1,11 +1,11 @@
-About r-nor1mix
-===============
+About r-nor1mix-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-nor1mix-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=nor1mix
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-nor1mix-feedstock/blob/main/LICENSE.txt)
 
 Summary: Onedimensional Normal Mixture Models Classes, for, e.g., density estimation or clustering algorithms research and teaching; providing the widely used Marron-Wand densities.  Efficient random number generation and graphics; now fitting to data by ML (Maximum Likelihood) or EM estimation.
 
